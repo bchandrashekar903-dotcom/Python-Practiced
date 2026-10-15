@@ -1,3 +1,3 @@
 # Python-Practiced
- This is my first repository.
-Chandra
+This is my first repository.
+Author~~Chandra
